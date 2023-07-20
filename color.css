@@ -1,0 +1,19 @@
+/* color:rgb[value]
+(eg).  color:rgb[255,22,134 
+hexa-desimal-value 
+ eg. color:#FF000*/
+
+ body{
+  background-color: grey ;
+ }
+ #p1{
+  color: blue;
+ }
+ #p2{
+  color: #d6d072;
+ }
+
+ #p3{
+  color:rgb(219, 131, 131);
+  background-color: rgb(11,111,11)
+ }
